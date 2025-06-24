@@ -1,6 +1,7 @@
 # 🕌 Aplikasi_JWS_Q
 
-<img width="207" alt="SS" src="https://github.com/user-attachments/assets/927229dc-16dd-4a8b-b760-03973f81df40" />
+<img width="207" alt="SS" src="https://github.com/user-attachments/assets/927229dc-16dd-4a8b-b760-03973f81df40" /><img width="207" alt="SSJADWAL" src="https://github.com/user-attachments/assets/c97ff6fc-9c32-4f09-8dae-a1352548d9fb" />
+
 
 
 Aplikasi Android untuk mengatur **Jam Sholat Digital** berbasis **ESP8266/ESP32**.  
@@ -90,4 +91,5 @@ Jika ingin berkontribusi:
 Fork & Pull Request
 Ajukan issue untuk saran/perbaikan
 Atau kirim pesan via GitHub
-<img width="207" alt="SSJADWAL" src="https://github.com/user-attachments/assets/44e7f30e-d9b9-4d59-ae0b-0a7f64976f8f" />
+
+
