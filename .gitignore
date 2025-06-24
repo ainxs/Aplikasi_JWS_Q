@@ -1,0 +1,39 @@
+# Android Studio
+*.iml
+.idea/
+.gradle
+/local.properties
+
+# Build output
+/build/
+.cxx/
+.externalNativeBuild/
+captures/
+output.json
+
+# Windows/Mac/Linux junk
+.DS_Store
+Thumbs.db
+
+# Signing keys - rahasia
+*.jks
+*.keystore
+
+# APK/AAB
+*.apk
+*.ap_
+*.aab
+
+# Crashlytics/Firebase
+fabric.properties
+google-services.json
+firebase-debug.log
+
+# Jetpack Compose
+compose*.cache
+
+# Debug logs
+*.log
+
+# Java compiled files
+*.class
